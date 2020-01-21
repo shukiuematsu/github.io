@@ -1,0 +1,10 @@
+.box1{
+  height:700px;
+  background-image:url(aassdd.jpg);
+  background-size: cover;
+}
+
+.title {
+  color: #02ccba;
+  text-align: center;
+}
